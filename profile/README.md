@@ -1,7 +1,7 @@
 
 ## NLPie Research
 
-We are a team of researchers affiliated with the University of Oxford who are passionate about the application of AI and NLP to problems in healthcare. Our initiative, NLPie Research (Natural Language Processing in eHealth Research), focuses on the development of efficient and lightweight Machine Learning models specialised for Biomedical applications.
+We are a team of researchers who are passionate about the application of AI and NLP to problems in healthcare. Our initiative, NLPie Research (Natural Language Processing in eHealth Research), focuses on the development of efficient and lightweight Machine Learning models specialised for Biomedical applications.
 
 ## Mission
 
