@@ -1,18 +1,23 @@
-
 ## NLPie Research
 
-We are a team of researchers who are passionate about the application of AI and NLP to problems in healthcare. Our initiative, NLPie Research (Natural Language Processing in eHealth Research), focuses on the development of efficient and lightweight Machine Learning models specialised for Biomedical applications.
+Independent, unincorporated open-source project creating practical NLP tools for biomedical science.
 
-## Mission
+Mission  
+Bring state-of-the-art clinical NLP to teams that don’t have large GPUs.
 
-Our mission is to make AI more accessible to researchers around the globe, particularly those in developing countries who may not have access to the latest hardware and resources. We believe in transparency and openness in our research and strive to make our work available to anyone who can benefit from it.
+Focus  
+- Biomedical / clinical language modelling  
+- Lightweight transformer distillation  
+- Rapid-deployment ML for health crises
 
-## Research Areas
+Oxford legacy  
+Repos tagged oxford-legacy cover work released 2022 – 30 June 2025. Oxford’s involvement ends 1 July 2025.
 
-* AI for healthcare
-* Biomedical Natural Language Processing 
-* Clinical Machine Learning 
+Compliance  
+Code and models are under MIT, Apache-2.0 or CC licences; please ensure your own use complies with applicable regulations.
 
-## Contact
+Support  
+One-off or monthly contributions help cover compute, hosting and upkeep:  
+https://github.com/sponsors/nlpie-research
 
-If you are interested in collaborating with us, inquiring about consultancy or simply have any questions about our research, please ✉️ [reach out to our team](mailto:info@nlpie.com).
+Contact: info@nlpie.com
